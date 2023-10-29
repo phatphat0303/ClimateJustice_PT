@@ -73,16 +73,16 @@ img {
 }
 
 ul {
-    margin-left: 20px;
+    margin-left: 30px;
 }
 
 footer {
-    background-color: #3498db;
+    background-color: #67aad6;
     color: #fff;
     text-align: center;
-    padding: 10px 0;
+    padding: 20px 0;
 }
 
 footer p {
-    font-size: 14px;
+    font-size: 20px;
 }
