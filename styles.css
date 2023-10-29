@@ -38,7 +38,7 @@ header li {
 }
 
 header a {
-    text-decoration: none;
+    text-decoration: underline;
     color: #14c4db;
     font-weight: bold;
 }
